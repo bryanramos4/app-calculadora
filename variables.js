@@ -25,7 +25,7 @@ console.log(puestoDeTrabajo);
 puestoDeTrabajo = null
 console.log(puestoDeTrabajo);
 
-
+var = hola;
 
 //Operadores matemáticos
 
